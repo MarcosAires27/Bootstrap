@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(3, 3, 3);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.navbar {
+    background-color: rgb(237, 243, 243);
+    font-family:'Times New Roman', Times, serif
+    
+    
+}
+
+.quem-somos {
+    background-color: rgb(106, 106, 109);
+}
+.quem-somos1{
+    background-color: rgb(53, 50, 50);
+    color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#quemsomos{
+   
+}
+
+.serviços {
+    color: aliceblue;
+    border: 3px solid red;
+    text-align: center;
+}
+.txt {
+    color:aliceblue
+}
+.bg-footer{
+  background-color: black;
+  color: rgb(9, 102, 189);
+
+}
